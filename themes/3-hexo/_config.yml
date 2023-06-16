@@ -83,7 +83,7 @@ menu:
       type: 3 # 跳转类型 3：打开新的tab页
 
 # 文末声明
-article_txt:
+article_txt:<%- page.source %>
 
 bottom_text: ©2023 coderyy
 # 自定义页面最下方的站点版权信息
